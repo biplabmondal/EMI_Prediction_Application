@@ -72,7 +72,7 @@ EDA was conducted to understand relationships between financial variables and EM
 
 ## Machine Learning Models Implemented
 
-### 🔢 Regression Model
+### Regression Model
 - Used for **predicting the EMI Amount**
 - Estimates the monthly EMI value based on financial and demographic attributes
 - Saved as: `EMI Regression Model.pkl`
@@ -131,7 +131,7 @@ The application interface allows users to enter:
  ┣  EMI Classifier Model.pkl     # Trained classification model
  ┣  app_regression.py            # Streamlit regression app
  ┣  app_classification.py        # Streamlit classification app
- ┗  demo.mp4                     # Application demo video
+
 ```
 
 ---
