@@ -126,6 +126,7 @@ The application interface allows users to enter:
  ┣  EMI Classifier Model.pkl     # Trained classification model
  ┣  app_regression.py            # Streamlit regression app
  ┣  app_classification.py        # Streamlit classification app
+ ┣  main_application.py          # Streamlit EMI eligibility/prediction app 
 
 ```
 
