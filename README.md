@@ -10,7 +10,6 @@ The objective of this project is to develop machine learning models that can:
 
 The trained models are deployed through an interactive web application using **Streamlit**, allowing users to input their financial details and receive instant predictions.
 
----
 
 ## Objectives
 
@@ -21,7 +20,6 @@ The trained models are deployed through an interactive web application using **S
 | **Financial Decision Support** | Provide a tool that helps users estimate their financial commitments before applying for a loan. |
 | **Real-Time Web Application** | Deploy the ML models using Streamlit for an interactive user interface. |
 
----
 
 ## Steps to Solve the Problem
 
@@ -68,7 +66,6 @@ EDA was conducted to understand relationships between financial variables and EM
 
 > Visualization techniques using **Matplotlib** and **Seaborn** were used to explore these relationships.
 
----
 
 ## Machine Learning Models Implemented
 
@@ -82,7 +79,6 @@ EDA was conducted to understand relationships between financial variables and EM
 - Determines whether a user is eligible for EMI approval
 - Saved as: `EMI Classifier Model.pkl`
 
----
 
 ## Model Deployment
 
@@ -110,7 +106,6 @@ The application interface allows users to enter:
 - Monthly Expenses
 - Employment Details
 
----
 
 ## Technologies Used
 
@@ -120,7 +115,6 @@ The application interface allows users to enter:
 | **Libraries** | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Pickle |
 | **Deployment Framework** | Streamlit |
 
----
 
 ## Project Files
 ```
@@ -134,8 +128,6 @@ The application interface allows users to enter:
 
 ```
 
----
-
 ## Results
 
 The system successfully predicts:
@@ -144,7 +136,6 @@ The system successfully predicts:
 
 By integrating machine learning models with a Streamlit interface, the project provides a **practical and user-friendly financial prediction system**.
 
----
 
 ## Conclusion
 
@@ -152,4 +143,4 @@ This project demonstrates how machine learning can be applied to financial data 
 
 By combining **data preprocessing**, **machine learning models**, and **Streamlit deployment**, the system provides a real-time EMI prediction tool that helps users make informed financial decisions.
 
-> Such applications can support **banks**, **fintech companies**, and **lending platforms** in improving loan evaluation processes and enhancing customer experience.
+Such applications can support **banks**, **fintech companies**, and **lending platforms** in improving loan evaluation processes and enhancing customer experience.
