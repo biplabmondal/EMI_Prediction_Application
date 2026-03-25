@@ -118,6 +118,7 @@ The application interface allows users to enter:
 
 ## Project Files
 
+```
  EMI-Prediction-ML
  ┣  notebook.ipynb               # Data analysis and model training
  ┣  dataset.csv                  # EMI prediction dataset
@@ -126,6 +127,7 @@ The application interface allows users to enter:
  ┣  app_regression.py            # Streamlit regression app
  ┣  app_classification.py        # Streamlit classification app
 
+```
 
 ## Results
 
